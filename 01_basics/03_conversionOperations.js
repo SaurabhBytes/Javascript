@@ -16,14 +16,14 @@ let valueIn = Number(score2)
 let valueIs = Number (score3)
 let valueHas = Number(score4)
 
-// console.log(typeof valueFor)  
-// console.log(valueFor)
-// console.log(typeof valueIn)
-// console.log(valueIn)
-// console.log(typeof valueIs)
-// console.log(valueIs)
-// console.log(typeof valueHas)
-// console.log(valueHas)
+console.log(typeof valueFor)  
+console.log(valueFor)
+console.log(typeof valueIn)
+console.log(valueIn)
+console.log(typeof valueIs)
+console.log(valueIs)
+console.log(typeof valueHas)
+console.log(valueHas)
 
 
 
@@ -40,9 +40,9 @@ let booleanIsloggedIn = Boolean(isLoggedIn)
 let booleanIsloggedIn1 = Boolean(isLoggedIn1)
 let booleanIsloggedIn2 = Boolean(isLoggedIn2)
 
-// console.log(booleanIsloggedIn)
-// console.log(booleanIsloggedIn1)
-// console.log(booleanIsloggedIn2)
+console.log(booleanIsloggedIn)
+console.log(booleanIsloggedIn1)
+console.log(booleanIsloggedIn2)
 
 
 //  1 => true ;  0 =>false
